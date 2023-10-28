@@ -10,9 +10,9 @@ I provide NO WARRANTY or guarantee that these files will be fully compatible wit
 of Unreal Engine. By using these files you agree that you will not hold me accountable if
 anything goes pear shaped.
 
-These files are © Epic Games. I claim ZERO ownership over anything in this archive. All I've
-done is redownload 4.27.2, copy out the missing templates and their associated files in
-TemplateResources, and put them in an easily sharable format. ♥
+That said, nothing should go pear shaped. I've tested these personally with no problems on Unreal Engine 5.2.1.
+
+These files are © Epic Games.
 
 ## INSTALLATION INSTRUCTIONS:
 
